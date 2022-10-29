@@ -1,5 +1,5 @@
 {
-    "name": "brainmaestro/composer-git-hooks",
+    "name": "runtimeinteractive/composer-git-hooks",
     "description": "Easily manage git hooks in your composer config",
     "type": "library",
     "minimum-stability": "stable",
